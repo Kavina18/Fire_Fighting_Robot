@@ -1,5 +1,4 @@
-# Fire_Fighting_Robot 
-An autonomous robot designed to detect and extinguish fires using sensors and automated navigation. This project demonstrates the integration of hardware and software to ensure safety in hazardous environments.
+# Fire_Fighting_Robot An autonomous robot designed to detect and extinguish fires using sensors and automated navigation. This project demonstrates the integration of hardware and software to ensure safety in hazardous environments.
 Features
 Fire Detection: Utilizes sensors to identify the presence of fire.
 Automated Navigation: Moves autonomously while avoiding obstacles.
