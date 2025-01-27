@@ -1,9 +1,2 @@
 # Fire_Fighting_Robot 
-An autonomous robot designed to detect and extinguish fires using sensors and automated navigation. This project demonstrates the integration of hardware and software to ensure safety in hazardous environments.
-Fire Detection: Utilizes sensors to identify the presence of fire.
-Automated Navigation: Moves autonomously while avoiding obstacles.
-Fire Extinguishing Mechanism: Activates a system to extinguish detected fires.
-User-Friendly Code: Written in Embedded C for Arduino UNO microcontroller.
-Hardware: Arduino UNO (Microcontroller), Sensors, Motors, Fire Extinguishing Module.
-Software: Embedded C programming.
-This robot is suitable for fire detection and suppression in industrial, domestic, or hazardous zones where human intervention is risky.
+The Fire Fighting Robot is an autonomous system designed to detect and extinguish fires in hazardous environments. It uses an Arduino UNO microcontroller and sensors for fire detection, automated navigation, and obstacle avoidance. Equipped with a fire extinguishing mechanism, the robot ensures safety by suppressing flames efficiently. The project is programmed in Embedded C, integrating hardware and software seamlessly to perform real-time operations. This innovative solution is ideal for applications in industrial, domestic, and other high-risk zones, where human intervention may pose significant danger.
